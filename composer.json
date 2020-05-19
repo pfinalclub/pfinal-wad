@@ -1,0 +1,36 @@
+{
+  "name": "pfinalclub/pfinal-wad",
+  "description": "This is a PHP Middleware for writing dynamic data to Android packages",
+  "authors": [
+    {
+      "name": "南丞",
+      "email": "Lampxiezi@163.com",
+      "homepage": "http://friday-go.cc/"
+    }
+  ],
+  "homepage":"https://github.com/Neroxiezi/pfinal-array",
+  "license": "MIT",
+  "keywords": [
+    "pfinal",
+    "南丞",
+    "Q哥",
+    "安卓apk"
+  ],
+
+  "require": {
+    "php": ">=7.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "pf\\wad\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "example\\": "example"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "6.2"
+  }
+}

@@ -1,0 +1,5 @@
+vendor
+composer.lock
+example/app-release.apk
+example/target.apk
+.idea
