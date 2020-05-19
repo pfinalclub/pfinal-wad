@@ -1,6 +1,6 @@
 {
   "name": "pfinalclub/pfinal-wad",
-  "description": "This is a PHP Middleware for writing dynamic data to Android packages",
+  "description": "This is a PHP tool for writing dynamic data to Android packages",
   "authors": [
     {
       "name": "南丞",
